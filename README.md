@@ -11,11 +11,11 @@
 
 ## ✨ Inspiration
 
-We were inspired by the concept of Interceptive Resonance — the silent, biological conversation happening in a room that often feels invisible to people with social anxiety or neurodivergence. 🧠💭
+We were inspired by the concept of Interceptive Resonance. The silent, biological conversation happening in a room that often feels invisible to people with social anxiety or neurodivergence. 🧠💭
 
 As first-generation students, networking events can feel especially overwhelming because imposter syndrome is so common. That pressure can lead to social anxiety and can negatively affect mental health. 💙
 
-We wanted to build a tool that gives people a kind of “sixth sense” — transforming overwhelming emotional noise into a clear, navigable map. 🗺️🔮
+We wanted to build a tool that gives people a kind of “sixth sense” that transforms overwhelming emotional noise into a clear, navigable map. 🗺️🔮
 
 ## 🚀 What It Does
 
@@ -49,7 +49,7 @@ The system is designed to work alongside Echo Lenses, a companion wearable tool.
 
 Our biggest hurdle was data overload. 📉
 
-At first, we realized that showing everything — heart rate, breathing rate, and other biometric signals — could actually make social anxiety worse instead of helping. Because of that, we had to rethink how much information should be displayed.
+At first, we realized that showing everything like heart rate, breathing rate, and other biometric signals could actually make social anxiety worse instead of helping. Because of that, we had to rethink how much information should be displayed.
 
 This led us to iterate on our Sensory Control settings, where we introduced a vibe opacity slider 🎚️ so users could dim the data and focus more on human connection rather than overwhelming metrics.
 
@@ -65,4 +65,4 @@ We learned about LiDAR, and we embraced the idea that “Clear is Kind.” 💬
 
 For someone with ADHD, knowing that a room is “High Friction” can be much more helpful than being told it is simply “Tense.” That clarity can make social environments easier to understand and navigate.
 
-We also discovered the power of Haptic Sonification 🎵📳 — the idea that you do not always need to see the data in order to feel the safety and connection of a synchronized group.
+We also discovered the power of Haptic Sonification 🎵📳 which is the idea that you do not always need to see the data in order to feel the safety and connection of a synchronized group.
